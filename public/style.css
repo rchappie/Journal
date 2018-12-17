@@ -1,0 +1,11 @@
+.fullpage {
+    height: 100%;
+    width: 100%;
+    color: #DDDDDD;
+    border-style: none;
+}
+
+.submitButton {
+    width: 100%;
+    background-color: #444444;
+}
